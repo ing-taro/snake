@@ -2,7 +2,6 @@
 Código fuente de la adaptación del juego SNAKE para las actividades dirigidas del curso de Inteligencia Artificial de la Universidad de Huelva.
 
 
-
 ## Carga en Eclipse
 * Crear un Proyecto Java (versión 1.8) vacío.
 * Descargar de la plataforma Moodle el código fuente del juego
@@ -16,5 +15,3 @@ Código fuente de la adaptación del juego SNAKE para las actividades dirigidas 
 ## Ejecución en Eclipse
 * En la clase SnakeIA2025 deberéis pulsar con el botón derecho y elegir "Run As" y luego "Run Configurations"
 * En la pestaña de "Arguments", deberéis escribir el nombre de la clase que habéis creado.
-
-**RECORDAR** QUE LA **CLASE** DE VUESTRO **AGENTE** DEBE DE SER VUESTRO **USUARIO** DE LA UHU **SIN PUNTOS**
